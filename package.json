@@ -2,6 +2,7 @@
   "name": "antd-table-pagination-react-router",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://xxd3vin.github.io/antd-table-pagination-react-router",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
