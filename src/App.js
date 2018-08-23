@@ -16,7 +16,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <Route path="/list" component={List} />
+        <Route path="/list/:page?/:pageSize?" component={List} />
       </div>
     );
   }

@@ -5,6 +5,8 @@
   "homepage": "http://xxd3vin.github.io/antd-table-pagination-react-router",
   "dependencies": {
     "antd": "^3.8.2",
+    "debug": "^3.1.0",
+    "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-router-dom": "^4.3.1",
