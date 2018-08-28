@@ -13,3 +13,4 @@ insert_final_newline = true
 [*.{js,jsx}]
 charset = utf-8
 quote_type = single
+max_line_length = 100 # airbnb
